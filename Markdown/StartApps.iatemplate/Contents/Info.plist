@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleIdentifier</key>
+	<string>pe.startapps.markdown</string>
+	<key>CFBundleName</key>
+	<string>StartApps</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.4</string>
+	<key>CFBundleVersion</key>
+	<string>4</string>
+	<key>IATemplateDocumentFile</key>
+	<string>document</string>
+	<key>IATemplateFooterHeight</key>
+	<integer>90</integer>
+	<key>IATemplateHeaderHeight</key>
+	<integer>90</integer>
+	<key>IATemplateDescription</key>
+	<string>StartApps document style.</string>
+	<key>IATemplateAuthor</key>
+	<string>Gabriel Lanata (StartApps)</string>
+	<key>IATemplateAuthorURL</key>
+	<string>https://startapps.pe</string>
+</dict>
+</plist>
